@@ -4,3 +4,16 @@ img{
     border-radius: 100px;
     border:1px solid coral;
 }
+body{
+    background-color: rgb(213, 223, 221);
+}
+h1,h3{
+    color: rgb(49, 177, 155);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+}
